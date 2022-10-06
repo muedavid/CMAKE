@@ -1,0 +1,11 @@
+# ninja log v5
+154	185	1665039862201027057	libmath.so	2765ae99d3dec447
+0	24	1665042002640270844	build.ninja	d390bc582ccba3d8
+1	152	1665039680310169435	CMakeFiles/NAME.dir/test_lib/operations.cpp.o	c741716354d1ebec
+143	178	1665041350736082559	cmake	c3efe0005edb33eb
+1	152	1665039680310169435	CMakeFiles/NAME.dir/main.cpp.o	49c4b5529e595b40
+0	143	1665041350700080034	CMakeFiles/cmake.dir/main.cpp.o	6b69700b854d991b
+150	181	1665041340007323212	test_lib_submodule/libmath_submodule.so	a4bedc8309a341b8
+0	154	1665039862169027308	CMakeFiles/math.dir/test_lib/operations.cpp.o	d82bb45810022e58
+1	149	1665041339975320924	test_lib_submodule/CMakeFiles/math_submodule.dir/operations.cpp.o	e03af9d00d2a3a15
+152	188	1665039680346169273	NAME	fd2ccf65edea96e4

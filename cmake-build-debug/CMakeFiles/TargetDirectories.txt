@@ -1,0 +1,7 @@
+/home/david/Documents/CMAKE/cmake-build-debug/CMakeFiles/math.dir
+/home/david/Documents/CMAKE/cmake-build-debug/CMakeFiles/cmake.dir
+/home/david/Documents/CMAKE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/Documents/CMAKE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/Documents/CMAKE/cmake-build-debug/test_lib_submodule/CMakeFiles/math_submodule.dir
+/home/david/Documents/CMAKE/cmake-build-debug/test_lib_submodule/CMakeFiles/edit_cache.dir
+/home/david/Documents/CMAKE/cmake-build-debug/test_lib_submodule/CMakeFiles/rebuild_cache.dir
